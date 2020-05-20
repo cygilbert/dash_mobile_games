@@ -3,13 +3,12 @@ import pickle
 import copy
 import pathlib
 import dash
-import math
 import datetime as dt
 import pandas as pd
-from dash.dependencies import Input, Output, State, ClientsideFunction
 import dash_core_components as dcc
 import dash_html_components as html
 import dash_table
+from dash.dependencies import Input, Output, ClientsideFunction
 
 # get relative data folder
 PATH = pathlib.Path(__file__).parent
@@ -21,25 +20,30 @@ app = dash.Dash(
 server = app.server
 
 start_year = 2000
-# df_apple = pd.read_csv(DATA_PATH.joinpath("df_apple.csv"), low_memory=False, index_col=0)
-# df_google = pd.read_csv(DATA_PATH.joinpath("df_google.csv"), low_memory=False, index_col=0)
-# TODO button to select
-df_game = pd.read_csv(DATA_PATH.joinpath("df_mobile_games.csv"), low_memory=False, index_col=0)
+df_game = pd.read_csv(
+    DATA_PATH.joinpath("df_mobile_games.csv"), low_memory=False, index_col=0
+)
 df_game.loc[:, "Release date"] = pd.to_datetime(df_game["Release date"])
 df_game = df_game[df_game["Release date"] > dt.datetime(start_year, 1, 1)]
 df_game.loc[:, 'Release year'] = df_game['Release date'].map(lambda x: x.year)
 end_year = max(df_game['Release year']) + 2
 
-df_genre_index = pd.read_csv(DATA_PATH.joinpath("games_genre2.csv"), low_memory=False)
+df_genre_index = pd.read_csv(
+    DATA_PATH.joinpath("games_genre2.csv"), low_memory=False
+)
 genres_dat = pickle.load(open(DATA_PATH.joinpath('genres.dat'), 'rb'))
-genres_options = [{'label': genre, 'value': genre}  for genre in genres_dat]
+genres_options = [{'label': genre, 'value': genre} for genre in genres_dat]
 companies_dat = pickle.load(open(DATA_PATH.joinpath('companies.dat'), 'rb'))
-companies_options = [{'label': company, 'value': company}  for company in companies_dat]
+companies_options = [
+    {'label': company, 'value': company} for company in companies_dat
+]
 
 columns_table = ['Game', 'Number of Vote', 'Mean Note', 'Release year']
 
 # Create global chart template
-mapbox_access_token = "pk.eyJ1IjoicGxvdGx5bWFwYm94IiwiYSI6ImNrOWJqb2F4djBnMjEzbG50amg0dnJieG4ifQ.Zme1-Uzoi75IaFbieBDl3A"
+mapbox_access_token = "pk.eyJ1IjoicGxvdGx5bWFwYm9" + \
+    "4IiwiYSI6ImNrOWJqb2F4djBnMjEz" + \
+    "bG50amg0dnJieG4ifQ.Zme1-Uzoi75IaFbieBDl3A"
 
 layout = dict(
     autosize=True,
@@ -66,23 +70,11 @@ app.layout = html.Div(
         html.Div(id="output-clientside"),
         html.Div(
             [
-                # html.Div(
-                #     [
-                #         html.Img(
-                #             src=app.get_asset_url("dash-logo.png"),
-                #             id="plotly-image",
-                #             style={
-                #                 "height": "60px",
-                #                 "width": "auto",
-                #                 "margin-bottom": "25px",
-                #             },
-                #         )
-                #     ],
-                #     className="one-third column",
-                # ),
                 html.Div(
                     [
-                        html.H5("Operating System:", className="control_label"),
+                        html.H5(
+                            "Operating System:", className="control_label"
+                        ),
                         dcc.RadioItems(
                             options=[
                                 {'label': 'Android', 'value': 'google'},
@@ -91,7 +83,7 @@ app.layout = html.Div(
                             ],
                             value='both',
                             id='stores_selected'
-                        )  
+                        )
                     ],
                     className="one-third column",
                 ),
@@ -104,7 +96,8 @@ app.layout = html.Div(
                                     style={"margin-bottom": "0px"},
                                 ),
                                 html.H5(
-                                    "Evolution Overview", style={"margin-top": "0px"}
+                                    "Evolution Overview",
+                                    style={"margin-top": "0px"}
                                 ),
                             ],
                         )
@@ -118,9 +111,6 @@ app.layout = html.Div(
             style={"margin-bottom": "25px"},
         ),
         html.Div(
-            [
-                
-            ],
             className="row flex-display",
             style={"text-align": "center"}
         ),
@@ -129,7 +119,8 @@ app.layout = html.Div(
                 html.Div(
                     [
                         html.P(
-                            "Filter by release date (or select range in histogram):",
+                            "Filter by release date" + \
+                            "(or select range in histogram):",
                             className="control_label",
                         ),
                         dcc.RangeSlider(
@@ -194,7 +185,10 @@ app.layout = html.Div(
                                     className="mini_container",
                                 ),
                                 html.Div(
-                                    [html.H6(id="oilText"), html.P("Mean Note")],
+                                    [
+                                        html.H6(id="oilText"),
+                                        html.P("Mean Note")
+                                    ],
                                     id="oil",
                                     className="mini_container",
                                 ),
@@ -228,8 +222,13 @@ app.layout = html.Div(
                         ),
                         dash_table.DataTable(
                             id='data_table',
-                            columns=[{'name': i, 'id': i} for i in columns_table],
-                            style_table={'height': '350px', 'overflowY': 'auto'},
+                            columns=[
+                                {'name': i, 'id': i} for i in columns_table
+                            ],
+                            style_table={
+                                'height': '350px',
+                                'overflowY': 'auto'
+                            },
                             style_data_conditional=[
                                 {
                                     'if': {'row_index': 'odd'},
@@ -260,7 +259,13 @@ app.layout = html.Div(
 
 
 # Helper functions
-def filter_dataframe(df, genres, companies, year_slider, stores, df_genre_index=df_genre_index):
+def filter_dataframe(
+        df,
+        genres,
+        companies,
+        year_slider,
+        stores,
+        df_genre_index=df_genre_index):
     index_genre = list(
         df_genre_index[
             df_genre_index['Genre'].isin(genres)
@@ -274,32 +279,45 @@ def filter_dataframe(df, genres, companies, year_slider, stores, df_genre_index=
     if companies != []:
         dff = dff[dff["Company"].isin(companies)]
 
-    if stores=='both':
+    if stores == 'both':
         dff.loc[:, 'index'] = dff.index
-        dff.loc[:, 'Mean Note weighted'] = pd.Series.multiply(dff['Mean Note'], dff['Number of Vote'])
-        col_gb = ['Game', 'Release date', 'Genres', 'Release year','index']
+        dff.loc[:, 'Mean Note weighted'] =\
+            pd.Series.multiply(dff['Mean Note'], dff['Number of Vote'])
+        col_gb = ['Game', 'Release date', 'Genres', 'Release year', 'index']
         col_calc = ['Mean Note weighted', 'Number of Vote']
-        dff_gb = dff[col_gb + col_calc].groupby(col_gb)[col_calc].sum().reset_index()
-        dff_gb.loc[:, 'Mean Note'] = pd.Series.divide(dff_gb['Mean Note weighted'], dff_gb['Number of Vote'])\
-            .apply(lambda x: round(x,2))
+        dff_gb = dff[col_gb + col_calc]\
+            .groupby(col_gb)[col_calc].sum().reset_index()
+        dff_gb.loc[:, 'Mean Note'] = pd.Series.divide(
+            dff_gb['Mean Note weighted'], dff_gb['Number of Vote']
+        ).apply(lambda x: round(x, 2))
         dff = dff_gb.set_index('index')
     else:
         dff = dff[dff['store'] == stores]
-    return dff[['Game', 'Release date', 'Release year','Genres', 'Number of Vote', 'Mean Note']]
+    return dff[
+        [
+            'Game', 'Release date', 'Release year',
+            'Genres', 'Number of Vote', 'Mean Note'
+        ]
+    ]
+
 
 def produce_aggregate(df_selected, year_slider):
     index = list(range(max(year_slider[0], 1985), end_year))
     df_selected_year = df_selected[
-        (df_selected['Release year']>= index[0]) & (df_selected['Release year']<= index[-1])
+        (df_selected['Release year'] >= index[0]) &
+        (df_selected['Release year'] <= index[-1])
     ]
     df_selected_year.loc[:, 'number of games'] = 1
-    df_selected_year.loc[:, 'Mean Note weighted'] = df_selected_year['Number of Vote'] * df_selected_year['Mean Note']
-    df_groupby = df_selected_year.groupby('Release year')[['Number of Vote', 'Mean Note weighted', 'number of games']]\
-        .sum().reset_index().sort_values('Release year')
+    df_selected_year.loc[:, 'Mean Note weighted'] =\
+        df_selected_year['Number of Vote'] * df_selected_year['Mean Note']
+    df_groupby =\
+        df_selected_year.groupby('Release year')[
+            ['Number of Vote', 'Mean Note weighted', 'number of games']
+        ].sum().reset_index().sort_values('Release year')
     return index,\
         list(df_groupby['number of games']),\
-            list(df_groupby['Number of Vote']),\
-                list(df_groupby['Mean Note weighted'])
+        list(df_groupby['Number of Vote']),\
+        list(df_groupby['Mean Note weighted'])
 
 
 # Create callbacks
@@ -308,6 +326,8 @@ app.clientside_callback(
     Output("output-clientside", "children"),
     [Input("count_graph", "figure")],
 )
+
+
 @app.callback(
     Output("aggregate_data", "data"),
     [
@@ -321,9 +341,12 @@ def update_production_text2(genres, companies, year_slider, stores):
     dff = filter_dataframe(df_game, genres, companies, year_slider, stores)
     if dff.shape[0] == 0:
         return 0, 0, 0
-    else: 
-        index, n_games, n_rating, mean_rating = produce_aggregate(dff, year_slider)
-    return f'{sum(n_games):,}', f'{sum(n_rating):,}', f'{sum(mean_rating)/sum(n_rating):.1f}'
+    else:
+        index, n_games, n_rating, mean_rating =\
+            produce_aggregate(dff, year_slider)
+    return f'{sum(n_games):,}', f'{sum(n_rating):,}',\
+        f'{sum(mean_rating)/sum(n_rating):.1f}'
+
 
 # Radio -> multi
 @app.callback(
@@ -336,7 +359,10 @@ def display_status(selector):
 
 
 # Radio -> multi
-@app.callback(Output("well_types", "value"), [Input("well_type_selector", "value")])
+@app.callback(
+    Output("well_types", "value"),
+    [Input("well_type_selector", "value")]
+)
 def display_type(selector):
     if selector == "all":
         return companies_dat
@@ -344,12 +370,17 @@ def display_type(selector):
 
 
 # Slider -> count graph
-@app.callback(Output("year_slider", "value"), [Input("count_graph", "selectedData")])
+@app.callback(
+    Output("year_slider", "value"),
+    [Input("count_graph", "selectedData")]
+)
 def update_year_slider(count_graph_selected):
     if count_graph_selected is None:
         return [2010, 2015]
-    
-    nums = [int(point["pointNumber"]) for point in count_graph_selected["points"]]
+    nums = [
+        int(point["pointNumber"])
+        for point in count_graph_selected["points"]
+    ]
     print(count_graph_selected, nums)
     return [min(nums) + start_year, max(nums) + start_year + 1]
 
@@ -366,6 +397,7 @@ def update_year_slider(count_graph_selected):
 def update_text(data):
     return data[0], data[1], data[2]
 
+
 # Selectors -> main graph
 @app.callback(
     Output("main_graph", "figure"),
@@ -381,7 +413,7 @@ def make_main_figure(genres, companies, year_slider, stores):
     data = [
         dict(
             x=dff['Number of Vote'],
-            y=dff['Mean Note'].map(lambda x: round(x,1)),
+            y=dff['Mean Note'].map(lambda x: round(x, 1)),
             text=dff['Game'],
             mode='markers',
             marker={
@@ -409,6 +441,7 @@ def make_main_figure(genres, companies, year_slider, stores):
     figure = dict(data=data, layout=layout)
     return figure
 
+
 # Selectors -> data_table
 @app.callback(
     Output("data_table", "data"),
@@ -422,8 +455,8 @@ def make_main_figure(genres, companies, year_slider, stores):
 def make_data_table(genres, companies, year_slider, stores):
     dff = filter_dataframe(df_game, genres, companies, year_slider, stores)
     dff = dff[columns_table].sort_values('Number of Vote', ascending=False)
-    dff['Number of Vote'] = dff['Number of Vote'].map(lambda x:f'{x:,}')
-    dff['Mean Note'] = dff['Mean Note'].map(lambda x:f'{x:.1f}')
+    dff['Number of Vote'] = dff['Number of Vote'].map(lambda x: f'{x:,}')
+    dff['Mean Note'] = dff['Mean Note'].map(lambda x: f'{x:.1f}')
     return dff.to_dict('records')
 
 
@@ -439,8 +472,10 @@ def make_data_table(genres, companies, year_slider, stores):
 )
 def make_count_figure(genres, companies, year_slider, stores):
     layout_count = copy.deepcopy(layout)
-    dff = filter_dataframe(df_game, genres, companies, [start_year, end_year], stores)
-    g = dff[['Release date', 'Number of Vote']].set_index('Release date') 
+    dff = filter_dataframe(
+        df_game, genres, companies, [start_year, end_year], stores
+    )
+    g = dff[['Release date', 'Number of Vote']].set_index('Release date')
     g = g.resample("A").sum()
     g.loc[:, 'Release date'] = g.index
     colors = []
@@ -475,6 +510,7 @@ def make_count_figure(genres, companies, year_slider, stores):
 
     figure = dict(data=data, layout=layout_count)
     return figure
+
 
 # Main
 if __name__ == "__main__":
