@@ -68,7 +68,7 @@ COUNTIES = {
     "123": "Yates",
 }
 
-WELL_STATUSES = dict(
+genre_STATUSES = dict(
     AC="Active",
     AR="Application Received to Drill/Plug/Convert",
     CA="Cancelled",
@@ -83,7 +83,7 @@ WELL_STATUSES = dict(
     PB="Plugged Back",
     PM="Plugged Back Multilateral",
     RE="Refunded Fee",
-    RW="Released - Water Well",
+    RW="Released - Water genre",
     SI="Shut-In",
     TA="Temporarily Abandoned",
     TR="Transferred Permit",
@@ -93,7 +93,7 @@ WELL_STATUSES = dict(
     VP="Voided Permit",
 )
 
-WELL_TYPES = dict(
+genre_TYPES = dict(
     BR="Brine",
     Confidential="Confidential",
     DH="Dry Hole",
@@ -109,7 +109,7 @@ WELL_TYPES = dict(
     MM="Monitoring Miscellaneous",
     MS="Monitoring Storage",
     NL="Not Listed",
-    OB="Observation Well",
+    OB="Observation genre",
     OD="Oil Development",
     OE="Oil Extension",
     OW="Oil Wildcat",
@@ -119,7 +119,7 @@ WELL_TYPES = dict(
     UN="Unknown",
 )
 
-WELL_COLORS = dict(
+genre_COLORS = dict(
     GD="#FFEDA0",
     GE="#FA9FB5",
     GW="#A1D99B",

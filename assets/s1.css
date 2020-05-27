@@ -572,13 +572,13 @@ there.
   .container-display {
     display: flex;
   }
-  #wells,
-  #gas,
-  #oil {
+  #genres,
+  #votes,
+  #mean {
     margin-right: 10px;
   }
 
-  #wells {
+  #genres {
     margin-left: 0px;
   }
   #water {

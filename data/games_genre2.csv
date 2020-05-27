@@ -1,0 +1,3412 @@
+Genre,index genre
+Indie,2
+Strategy,2
+Puzzle,7
+Simulator,7
+Unknow,8
+Simulator,10
+Adventure,11
+Indie,11
+Point-and-click,11
+Simulator,18
+Arcade,19
+Arcade,21
+Puzzle,22
+Strategy,30
+Unknow,33
+Puzzle,34
+Role-playing (RPG),34
+Puzzle,54
+Adventure,57
+Indie,57
+Puzzle,57
+Strategy,57
+Puzzle,65
+Strategy,105
+Sport,123
+Adventure,128
+Puzzle,128
+Role-playing (RPG),129
+Simulator,129
+Arcade,133
+Role-playing (RPG),190
+Simulator,190
+Strategy,190
+Puzzle,193
+Adventure,199
+Indie,199
+Strategy,199
+Adventure,203
+Puzzle,203
+Unknow,205
+Puzzle,208
+Platform,214
+Puzzle,214
+Role-playing (RPG),217
+Arcade,218
+Sport,218
+Racing,219
+Simulator,219
+Sport,219
+Strategy,222
+Simulator,225
+Strategy,225
+Tactical,225
+Turn-based strategy (TBS),225
+Puzzle,268
+Adventure,309
+Indie,309
+Racing,316
+Simulator,316
+Simulator,317
+Unknow,324
+Puzzle,331
+Puzzle,367
+Arcade,389
+Indie,389
+Simulator,389
+Strategy,389
+Arcade,392
+Arcade,395
+Sport,395
+Unknow,397
+Arcade,399
+Adventure,401
+Indie,401
+Platform,401
+Puzzle,401
+Puzzle,403
+Strategy,405
+Adventure,406
+Indie,406
+Point-and-click,406
+Puzzle,406
+Arcade,416
+Indie,416
+Puzzle,444
+Puzzle,446
+Strategy,460
+Adventure,479
+Point-and-click,479
+Racing,501
+Sport,501
+Simulator,505
+Arcade,508
+Adventure,523
+Puzzle,523
+Adventure,528
+Platform,528
+Role-playing (RPG),528
+Indie,571
+Puzzle,571
+Simulator,571
+Indie,572
+Platform,572
+Puzzle,572
+Arcade,574
+Adventure,578
+Indie,578
+Role-playing (RPG),578
+Arcade,579
+Indie,582
+Puzzle,582
+Simulator,582
+Adventure,585
+Point-and-click,585
+Puzzle,587
+Tactical,589
+Puzzle,597
+Strategy,613
+Unknow,626
+Unknow,637
+Racing,642
+Simulator,642
+Indie,647
+Quiz/Trivia,647
+Role-playing (RPG),647
+Strategy,647
+Simulator,649
+Sport,649
+Adventure,700
+Unknow,706
+Adventure,742
+Indie,742
+Puzzle,742
+Role-playing (RPG),742
+Role-playing (RPG),744
+Arcade,746
+Indie,747
+Adventure,756
+Indie,756
+Puzzle,756
+Unknow,761
+Sport,765
+Role-playing (RPG),766
+Adventure,768
+Indie,773
+Puzzle,773
+Strategy,773
+Adventure,774
+Adventure,775
+Indie,775
+Role-playing (RPG),775
+Indie,776
+Puzzle,776
+Simulator,778
+Puzzle,779
+Adventure,783
+Real Time Strategy (RTS),783
+Role-playing (RPG),783
+Strategy,783
+Arcade,784
+Hack and slash/Beat 'em up,791
+Platform,791
+Puzzle,794
+Racing,825
+Simulator,825
+Simulator,851
+Adventure,942
+Platform,942
+Unknow,943
+Arcade,946
+Arcade,947
+Adventure,948
+Indie,948
+Strategy,950
+Hack and slash/Beat 'em up,953
+Indie,953
+Unknow,956
+Adventure,959
+Arcade,961
+Sport,961
+Adventure,965
+Role-playing (RPG),965
+Simulator,965
+Strategy,965
+Turn-based strategy (TBS),965
+Turn-based strategy (TBS),968
+Racing,983
+Simulator,983
+Adventure,987
+Point-and-click,987
+Puzzle,1005
+Role-playing (RPG),1015
+Simulator,1015
+Role-playing (RPG),1056
+Arcade,1069
+Sport,1069
+Unknow,1076
+Role-playing (RPG),1095
+Role-playing (RPG),1098
+Simulator,1098
+Adventure,1130
+Indie,1130
+Role-playing (RPG),1130
+Simulator,1130
+Unknow,1142
+Puzzle,1149
+Unknow,1153
+Indie,1156
+Role-playing (RPG),1156
+Simulator,1156
+Unknow,1163
+Real Time Strategy (RTS),1165
+Simulator,1165
+Strategy,1165
+Racing,1170
+Sport,1170
+Arcade,1206
+Puzzle,1206
+Arcade,1217
+Indie,1217
+Unknow,1227
+Adventure,1239
+Indie,1239
+Quiz/Trivia,1239
+Role-playing (RPG),1239
+Strategy,1239
+Turn-based strategy (TBS),1239
+Adventure,1247
+Puzzle,1247
+Unknow,1259
+Adventure,1264
+Indie,1264
+Role-playing (RPG),1264
+Adventure,1271
+Puzzle,1271
+Unknow,1273
+Adventure,1330
+Puzzle,1330
+Indie,1331
+Simulator,1331
+Puzzle,1334
+Puzzle,1345
+Simulator,1347
+Puzzle,1348
+Unknow,1349
+Indie,1350
+Role-playing (RPG),1350
+Strategy,1350
+Tactical,1350
+Indie,1372
+Puzzle,1372
+Adventure,1375
+Role-playing (RPG),1375
+Strategy,1375
+Adventure,1394
+Shooter,1394
+Role-playing (RPG),1445
+Strategy,1445
+Role-playing (RPG),1446
+Shooter,1446
+Simulator,1446
+Strategy,1446
+Tactical,1446
+Indie,1452
+Puzzle,1452
+Hack and slash/Beat 'em up,1471
+Racing,1476
+Simulator,1476
+Sport,1476
+Racing,1484
+Sport,1484
+Adventure,1485
+Platform,1485
+Puzzle,1485
+Unknow,1489
+Arcade,1495
+Puzzle,1514
+Arcade,1518
+Racing,1518
+Adventure,1526
+Role-playing (RPG),1526
+Strategy,1526
+Arcade,1529
+Adventure,1561
+Arcade,1561
+Indie,1561
+Platform,1561
+Puzzle,1561
+Adventure,1588
+Unknow,1644
+Indie,1707
+Simulator,1707
+Strategy,1707
+Role-playing (RPG),1722
+Role-playing (RPG),1731
+Arcade,1742
+Quiz/Trivia,1748
+Strategy,1748
+Adventure,1761
+Platform,1771
+Puzzle,1771
+Adventure,1775
+Role-playing (RPG),1775
+Adventure,1784
+Role-playing (RPG),1806
+Simulator,1806
+Unknow,1820
+Unknow,1867
+Adventure,1891
+Indie,1891
+Puzzle,1891
+Role-playing (RPG),1891
+Racing,1913
+Sport,1913
+Unknow,1923
+Role-playing (RPG),1941
+Strategy,1941
+Unknow,1953
+Arcade,1978
+Indie,1978
+Simulator,1978
+Strategy,1978
+Racing,2001
+Simulator,2001
+Sport,2001
+Puzzle,2061
+Unknow,2063
+Adventure,2080
+Indie,2080
+Quiz/Trivia,2080
+Arcade,2130
+Role-playing (RPG),2159
+Simulator,2159
+Racing,2199
+Adventure,2201
+Turn-based strategy (TBS),2231
+Puzzle,2243
+Strategy,2246
+Turn-based strategy (TBS),2246
+Role-playing (RPG),2249
+Arcade,2264
+Arcade,2265
+Simulator,2265
+Unknow,2324
+Arcade,2359
+Sport,2359
+Arcade,2380
+Arcade,2419
+Puzzle,2419
+Racing,2430
+Simulator,2430
+Role-playing (RPG),2432
+Strategy,2432
+Adventure,2435
+Puzzle,2435
+Arcade,2440
+Role-playing (RPG),2441
+Arcade,2485
+Indie,2485
+Simulator,2485
+Sport,2486
+Adventure,2499
+Arcade,2499
+Indie,2499
+Strategy,2499
+Simulator,2500
+Strategy,2500
+Quiz/Trivia,2516
+Unknow,2527
+Arcade,2591
+Arcade,2607
+Indie,2607
+Music,2607
+Indie,2614
+Arcade,2629
+Platform,2667
+Indie,2729
+Puzzle,2729
+Arcade,2754
+Puzzle,2762
+Racing,2815
+Role-playing (RPG),2823
+Role-playing (RPG),2829
+Simulator,2829
+Adventure,2867
+Indie,2867
+Puzzle,2867
+Indie,2874
+Simulator,2874
+Adventure,2900
+Indie,2900
+Simulator,2900
+Unknow,2983
+Adventure,3013
+Arcade,3033
+Puzzle,3033
+Adventure,3050
+Hack and slash/Beat 'em up,3050
+Role-playing (RPG),3050
+Indie,3053
+Role-playing (RPG),3053
+Simulator,3053
+Strategy,3053
+Simulator,3062
+Strategy,3067
+Simulator,3078
+Strategy,3078
+Simulator,3094
+Puzzle,3095
+Unknow,3108
+Indie,3113
+Sport,3113
+Arcade,3116
+Racing,3116
+Adventure,3121
+Puzzle,3121
+Simulator,3122
+Adventure,3132
+Indie,3132
+Platform,3132
+Puzzle,3132
+Arcade,3143
+Arcade,3161
+Adventure,3174
+Simulator,3174
+Music,3176
+Role-playing (RPG),3178
+Adventure,3185
+Indie,3185
+Platform,3185
+Shooter,3187
+Unknow,3193
+Role-playing (RPG),3200
+Racing,3212
+Puzzle,3221
+Unknow,3229
+Role-playing (RPG),3252
+Racing,3256
+Simulator,3256
+Indie,3265
+Strategy,3265
+Puzzle,3271
+Indie,3277
+Puzzle,3277
+Role-playing (RPG),3283
+Strategy,3283
+Adventure,3311
+Point-and-click,3311
+Real Time Strategy (RTS),3312
+Role-playing (RPG),3312
+Strategy,3312
+Simulator,3313
+Arcade,3315
+Adventure,3343
+Indie,3343
+Role-playing (RPG),3343
+Indie,3355
+Platform,3355
+Racing,3355
+Simulator,3371
+Strategy,3371
+Unknow,3378
+Sport,3380
+Adventure,3393
+Strategy,3393
+Adventure,3402
+Puzzle,3402
+Arcade,3419
+Unknow,3423
+Strategy,3425
+Arcade,3430
+Role-playing (RPG),3430
+Adventure,3431
+Indie,3431
+Puzzle,3431
+Indie,3441
+Strategy,3441
+Music,3446
+Simulator,3446
+Strategy,3446
+Arcade,3531
+Puzzle,3531
+Arcade,3541
+Shooter,3541
+Simulator,3541
+Strategy,3541
+Indie,3543
+Racing,3543
+Role-playing (RPG),3543
+Sport,3543
+Arcade,3549
+Indie,3549
+Adventure,3556
+Indie,3556
+Platform,3556
+Puzzle,3556
+Shooter,3573
+Adventure,3574
+Puzzle,3574
+Strategy,3581
+Unknow,3590
+Arcade,3593
+Racing,3593
+Simulator,3593
+Sport,3593
+Unknow,3599
+Unknow,3616
+Puzzle,3620
+Puzzle,3625
+Arcade,3628
+Simulator,3628
+Role-playing (RPG),3654
+Simulator,3654
+Role-playing (RPG),3655
+Adventure,3680
+Arcade,3680
+Adventure,3690
+Indie,3690
+Platform,3690
+Puzzle,3690
+Arcade,3692
+Role-playing (RPG),3702
+Strategy,3707
+Simulator,3730
+Sport,3730
+Puzzle,3740
+Adventure,3751
+Indie,3751
+Simulator,3751
+Arcade,3766
+Sport,3766
+Indie,3774
+Simulator,3774
+Puzzle,3785
+Indie,3795
+Indie,3796
+Role-playing (RPG),3796
+Strategy,3796
+Turn-based strategy (TBS),3796
+Arcade,3817
+Puzzle,3817
+Arcade,3834
+Simulator,3834
+Sport,3834
+Music,3842
+Adventure,3872
+Racing,3872
+Shooter,3872
+Sport,3872
+Simulator,3886
+Strategy,3886
+Arcade,3890
+Music,3894
+Role-playing (RPG),3894
+Unknow,3941
+Arcade,3942
+Arcade,3952
+Indie,3976
+Platform,3976
+Puzzle,3976
+Adventure,3978
+Puzzle,3978
+Arcade,3989
+Adventure,3995
+Role-playing (RPG),3995
+Strategy,3995
+Adventure,3997
+Simulator,3997
+Strategy,3997
+Puzzle,4008
+Arcade,4024
+Shooter,4024
+Simulator,4026
+Indie,4045
+Sport,4045
+Strategy,4045
+Role-playing (RPG),4056
+Indie,4075
+Simulator,4075
+Indie,4081
+Puzzle,4081
+Sport,4098
+Adventure,4103
+Indie,4103
+Point-and-click,4103
+Puzzle,4103
+Adventure,4106
+Arcade,4106
+Indie,4106
+Simulator,4106
+Adventure,4113
+Platform,4113
+Puzzle,4113
+Role-playing (RPG),4150
+Adventure,4166
+Role-playing (RPG),4176
+Simulator,4176
+Adventure,4178
+Arcade,4178
+Sport,4183
+Adventure,4184
+Indie,4184
+Platform,4184
+Role-playing (RPG),4184
+Simulator,4184
+Strategy,4184
+Puzzle,4197
+Racing,4201
+Sport,4201
+Racing,4210
+Fighting,4225
+Sport,4225
+Indie,4237
+Puzzle,4237
+Puzzle,4256
+Simulator,4281
+Indie,4282
+Simulator,4282
+Unknow,4283
+Simulator,4286
+Strategy,4286
+Turn-based strategy (TBS),4286
+Arcade,4295
+Unknow,4318
+Role-playing (RPG),4322
+Racing,4331
+Unknow,4333
+Sport,4336
+Adventure,4338
+Puzzle,4338
+Indie,4360
+Puzzle,4360
+Strategy,4360
+Point-and-click,4361
+Simulator,4362
+Puzzle,4366
+Indie,4385
+Strategy,4385
+Music,4392
+Role-playing (RPG),4399
+Strategy,4399
+Turn-based strategy (TBS),4399
+Fighting,4405
+Puzzle,4408
+Tactical,4411
+Turn-based strategy (TBS),4411
+Arcade,4433
+Puzzle,4433
+Puzzle,4438
+Adventure,4462
+Indie,4462
+Racing,4462
+Simulator,4462
+Sport,4462
+Arcade,4479
+Platform,4479
+Racing,4479
+Puzzle,4486
+Adventure,4493
+Adventure,4497
+Point-and-click,4497
+Arcade,4500
+Puzzle,4500
+Unknow,4505
+Adventure,4513
+Arcade,4513
+Indie,4513
+Music,4513
+Indie,4529
+Real Time Strategy (RTS),4529
+Simulator,4529
+Strategy,4529
+Tactical,4529
+Role-playing (RPG),4532
+Arcade,4539
+Arcade,4564
+Adventure,4585
+Indie,4585
+Adventure,4599
+Indie,4599
+Music,4599
+Role-playing (RPG),4599
+Hack and slash/Beat 'em up,4608
+Role-playing (RPG),4608
+Arcade,4614
+Puzzle,4640
+Sport,4641
+Arcade,4646
+Racing,4646
+Sport,4646
+Unknow,4659
+Arcade,4665
+Arcade,4686
+Unknow,4687
+Adventure,4696
+Puzzle,4696
+Role-playing (RPG),4714
+Simulator,4714
+Adventure,4720
+Strategy,4720
+Turn-based strategy (TBS),4720
+Strategy,4741
+Adventure,4750
+Indie,4750
+Point-and-click,4750
+Puzzle,4750
+Adventure,4768
+Indie,4768
+Platform,4803
+Simulator,4804
+Strategy,4804
+Arcade,4812
+Hack and slash/Beat 'em up,4812
+Indie,4812
+Indie,4813
+Puzzle,4813
+Sport,4824
+Puzzle,4845
+Puzzle,4849
+Role-playing (RPG),4889
+Simulator,4889
+Simulator,4890
+Role-playing (RPG),4893
+Strategy,4893
+Arcade,4898
+Adventure,4904
+Indie,4904
+Strategy,4904
+Shooter,4913
+Simulator,4913
+Sport,4913
+Unknow,4920
+Adventure,4929
+Simulator,4929
+Simulator,4950
+Sport,4950
+Adventure,4964
+Puzzle,4964
+Puzzle,4969
+Racing,4987
+Arcade,4992
+Puzzle,4994
+Adventure,5008
+Indie,5008
+Role-playing (RPG),5008
+Simulator,5008
+Puzzle,5043
+Strategy,5043
+Arcade,5050
+Indie,5050
+Shooter,5050
+Unknow,5053
+Unknow,5057
+Adventure,5074
+Indie,5090
+Puzzle,5090
+Fighting,5112
+Racing,5141
+Simulator,5141
+Simulator,5168
+Sport,5168
+Indie,5170
+Puzzle,5170
+Arcade,5179
+Racing,5193
+Simulator,5193
+Adventure,5194
+Racing,5194
+Sport,5194
+Strategy,5194
+Puzzle,5200
+Sport,5200
+Unknow,5209
+Indie,5242
+Platform,5242
+Fighting,5273
+Role-playing (RPG),5273
+Turn-based strategy (TBS),5273
+Role-playing (RPG),5275
+Shooter,5275
+Tactical,5275
+Adventure,5287
+Puzzle,5297
+Puzzle,5314
+Arcade,5324
+Simulator,5327
+Strategy,5337
+Arcade,5353
+Racing,5357
+Strategy,5357
+Adventure,5358
+Music,5358
+Simulator,5363
+Role-playing (RPG),5366
+Strategy,5366
+Indie,5394
+Puzzle,5394
+Simulator,5399
+Role-playing (RPG),5413
+Racing,5438
+Simulator,5438
+Adventure,5441
+Visual Novel,5441
+Arcade,5470
+Simulator,5474
+Strategy,5474
+Arcade,5495
+Indie,5498
+Simulator,5498
+Sport,5498
+Arcade,5499
+Indie,5499
+Unknow,5520
+Role-playing (RPG),5528
+Strategy,5528
+Adventure,5530
+Indie,5530
+Puzzle,5530
+Unknow,5541
+Arcade,5548
+Simulator,5584
+Adventure,5586
+Indie,5586
+Role-playing (RPG),5586
+Strategy,5586
+Simulator,5606
+Sport,5606
+Puzzle,5638
+Strategy,5638
+Simulator,5647
+Sport,5647
+Adventure,5651
+Fighting,5651
+Racing,5651
+Shooter,5651
+Indie,5667
+Role-playing (RPG),5667
+Shooter,5667
+Simulator,5667
+Strategy,5667
+Turn-based strategy (TBS),5699
+Shooter,5704
+Indie,5709
+Puzzle,5709
+Simulator,5709
+Strategy,5709
+Puzzle,5717
+Strategy,5717
+Turn-based strategy (TBS),5717
+Arcade,5744
+Sport,5744
+Shooter,5767
+Strategy,5767
+Adventure,5782
+Indie,5782
+Puzzle,5782
+Role-playing (RPG),5782
+Adventure,5825
+Arcade,5825
+Indie,5825
+Arcade,5830
+Indie,5837
+Strategy,5837
+Indie,5841
+Role-playing (RPG),5841
+Unknow,5847
+Adventure,5853
+Puzzle,5853
+Arcade,5858
+Indie,5858
+Racing,5858
+Simulator,5862
+Strategy,5862
+Arcade,5882
+Simulator,5882
+Unknow,5883
+Adventure,5887
+Indie,5887
+Puzzle,5887
+Role-playing (RPG),5899
+Indie,5906
+Role-playing (RPG),5906
+Strategy,5906
+Adventure,5945
+Adventure,5955
+Role-playing (RPG),5955
+Puzzle,5957
+Strategy,5962
+Unknow,5972
+Puzzle,5
+Adventure,6
+Indie,6
+Strategy,6
+Puzzle,14
+Role-playing (RPG),17
+Turn-based strategy (TBS),17
+Simulator,25
+Indie,28
+Simulator,28
+Sport,28
+Adventure,41
+Role-playing (RPG),41
+Simulator,41
+Strategy,41
+Role-playing (RPG),43
+Role-playing (RPG),45
+Simulator,45
+Adventure,47
+Role-playing (RPG),47
+Strategy,47
+Turn-based strategy (TBS),47
+Shooter,48
+Arcade,51
+Racing,51
+Unknow,66
+Indie,67
+Simulator,67
+Arcade,68
+Puzzle,69
+Arcade,70
+Strategy,86
+Arcade,89
+Racing,91
+Arcade,98
+Simulator,98
+Adventure,103
+Role-playing (RPG),103
+Adventure,110
+Arcade,110
+Racing,110
+Shooter,110
+Puzzle,114
+Adventure,119
+Role-playing (RPG),119
+Role-playing (RPG),121
+Simulator,122
+Indie,131
+Platform,131
+Puzzle,131
+Arcade,137
+Adventure,142
+Puzzle,142
+Puzzle,144
+Arcade,146
+Racing,146
+Role-playing (RPG),154
+Strategy,154
+Arcade,155
+Visual Novel,171
+Arcade,172
+Indie,172
+Arcade,188
+Adventure,194
+Role-playing (RPG),194
+Strategy,194
+Puzzle,195
+Indie,202
+Simulator,202
+Puzzle,228
+Strategy,233
+Arcade,240
+Real Time Strategy (RTS),240
+Strategy,240
+Tactical,240
+Hack and slash/Beat 'em up,245
+Role-playing (RPG),245
+Music,248
+Arcade,251
+Indie,251
+Puzzle,251
+Strategy,251
+Indie,256
+Platform,256
+Real Time Strategy (RTS),259
+Role-playing (RPG),259
+Strategy,259
+Tactical,259
+Quiz/Trivia,262
+Adventure,263
+Puzzle,263
+Shooter,266
+Strategy,266
+Fighting,270
+Arcade,273
+Strategy,273
+Adventure,285
+Shooter,285
+Indie,295
+Puzzle,295
+Strategy,295
+Simulator,300
+Puzzle,303
+Adventure,307
+Indie,307
+Platform,307
+Arcade,311
+Adventure,326
+Point-and-click,326
+Simulator,326
+Adventure,332
+Puzzle,332
+Arcade,335
+Indie,339
+Simulator,339
+Indie,340
+Role-playing (RPG),340
+Platform,342
+Adventure,349
+Indie,349
+Quiz/Trivia,349
+Strategy,349
+Real Time Strategy (RTS),351
+Simulator,351
+Strategy,351
+Tactical,351
+Arcade,353
+Shooter,356
+Sport,360
+Indie,361
+Puzzle,361
+Simulator,361
+Indie,365
+Shooter,365
+Hack and slash/Beat 'em up,366
+Adventure,369
+Point-and-click,369
+Puzzle,369
+Role-playing (RPG),369
+Visual Novel,369
+Sport,376
+Arcade,380
+Hack and slash/Beat 'em up,385
+Shooter,385
+Indie,404
+Strategy,404
+Unknow,409
+Arcade,410
+Platform,410
+Arcade,411
+Indie,411
+Arcade,415
+Indie,415
+Arcade,429
+Sport,438
+Role-playing (RPG),440
+Arcade,443
+Fighting,443
+Role-playing (RPG),445
+Indie,447
+Puzzle,447
+Racing,448
+Simulator,448
+Strategy,448
+Tactical,452
+Adventure,455
+Indie,455
+Platform,455
+Simulator,457
+Sport,462
+Adventure,466
+Indie,466
+Point-and-click,466
+Simulator,466
+Strategy,466
+Strategy,470
+Arcade,476
+Simulator,476
+Racing,478
+Role-playing (RPG),485
+Fighting,486
+Hack and slash/Beat 'em up,486
+Indie,486
+Racing,486
+Adventure,487
+Adventure,488
+Arcade,488
+Indie,488
+Platform,488
+Puzzle,494
+Indie,496
+Puzzle,496
+Adventure,503
+Puzzle,503
+Arcade,506
+Indie,506
+Adventure,518
+Strategy,519
+Adventure,526
+Adventure,529
+Indie,529
+Role-playing (RPG),529
+Puzzle,535
+Arcade,536
+Adventure,538
+Indie,538
+Arcade,543
+Puzzle,543
+Indie,544
+Role-playing (RPG),544
+Arcade,556
+Indie,556
+Shooter,556
+Simulator,564
+Racing,566
+Simulator,566
+Sport,566
+Indie,569
+Puzzle,569
+Arcade,573
+Simulator,575
+Adventure,591
+Puzzle,591
+Visual Novel,591
+Shooter,594
+Puzzle,595
+Role-playing (RPG),595
+Arcade,601
+Music,601
+Platform,602
+Sport,615
+Role-playing (RPG),618
+Adventure,619
+Role-playing (RPG),619
+Role-playing (RPG),622
+Platform,638
+Puzzle,640
+Adventure,643
+Role-playing (RPG),643
+Sport,644
+Simulator,646
+Strategy,646
+Arcade,651
+Hack and slash/Beat 'em up,660
+Indie,660
+Indie,661
+Puzzle,661
+Quiz/Trivia,663
+Unknow,664
+Strategy,670
+Role-playing (RPG),671
+Racing,675
+Puzzle,683
+Arcade,684
+Adventure,685
+Indie,685
+Role-playing (RPG),685
+Visual Novel,685
+Unknow,686
+Adventure,696
+Indie,696
+Platform,696
+Simulator,701
+Strategy,701
+Unknow,705
+Indie,709
+Shooter,709
+Simulator,709
+Adventure,716
+Shooter,720
+Puzzle,722
+Role-playing (RPG),732
+Indie,734
+Puzzle,734
+Indie,736
+Puzzle,736
+Indie,740
+Simulator,741
+Sport,741
+Simulator,745
+Arcade,749
+Adventure,759
+Indie,759
+Platform,759
+Arcade,764
+Platform,764
+Adventure,771
+Unknow,787
+Puzzle,790
+Arcade,793
+Indie,793
+Music,793
+Pinball,793
+Platform,793
+Adventure,804
+Simulator,804
+Role-playing (RPG),805
+Strategy,805
+Tactical,805
+Turn-based strategy (TBS),805
+Adventure,807
+Arcade,807
+Racing,808
+Simulator,808
+Indie,809
+Music,809
+Simulator,813
+Shooter,815
+Indie,817
+Music,817
+Platform,817
+Racing,817
+Fighting,829
+Puzzle,830
+Unknow,853
+Simulator,855
+Platform,856
+Puzzle,856
+Unknow,858
+Unknow,870
+Arcade,878
+Fighting,878
+Indie,878
+Sport,878
+Adventure,879
+Indie,879
+Point-and-click,879
+Puzzle,879
+Simulator,879
+Indie,886
+Strategy,886
+Puzzle,887
+Role-playing (RPG),891
+Indie,895
+Puzzle,895
+Adventure,901
+Indie,901
+Role-playing (RPG),904
+Turn-based strategy (TBS),904
+Adventure,905
+Indie,905
+Role-playing (RPG),905
+Strategy,905
+Adventure,910
+Role-playing (RPG),910
+Adventure,915
+Indie,915
+Role-playing (RPG),915
+Adventure,917
+Indie,917
+Role-playing (RPG),921
+Platform,924
+Role-playing (RPG),927
+Simulator,928
+Strategy,928
+Arcade,930
+Racing,930
+Adventure,931
+Indie,931
+Puzzle,931
+Indie,937
+Simulator,937
+Strategy,937
+Role-playing (RPG),938
+Strategy,939
+Unknow,945
+Arcade,958
+Indie,970
+Adventure,971
+Role-playing (RPG),971
+Simulator,971
+Strategy,971
+Tactical,971
+Turn-based strategy (TBS),971
+Role-playing (RPG),977
+Puzzle,980
+Real Time Strategy (RTS),980
+Strategy,980
+Tactical,980
+Role-playing (RPG),981
+Turn-based strategy (TBS),981
+Arcade,990
+Platform,990
+Arcade,991
+Simulator,1001
+Unknow,1002
+Indie,1009
+Role-playing (RPG),1009
+Role-playing (RPG),1010
+Arcade,1014
+Indie,1014
+Platform,1014
+Adventure,1021
+Racing,1021
+Shooter,1021
+Simulator,1021
+Indie,1023
+Strategy,1023
+Real Time Strategy (RTS),1026
+Strategy,1026
+Role-playing (RPG),1031
+Indie,1060
+Role-playing (RPG),1060
+Strategy,1060
+Turn-based strategy (TBS),1060
+Indie,1061
+Shooter,1061
+Strategy,1062
+Puzzle,1065
+Puzzle,1072
+Arcade,1080
+Indie,1080
+Shooter,1080
+Shooter,1086
+Turn-based strategy (TBS),1087
+Tactical,1104
+Puzzle,1107
+Strategy,1114
+Tactical,1114
+Adventure,1116
+Indie,1116
+Simulator,1116
+Indie,1124
+Shooter,1124
+Adventure,1128
+Simulator,1128
+Indie,1137
+Shooter,1137
+Real Time Strategy (RTS),1139
+Strategy,1139
+Music,1141
+Indie,1145
+Puzzle,1145
+Arcade,1154
+Shooter,1154
+Puzzle,1161
+Unknow,1171
+Indie,1172
+Puzzle,1172
+Adventure,1174
+Indie,1174
+Platform,1174
+Adventure,1176
+Indie,1176
+Puzzle,1176
+Adventure,1181
+Indie,1181
+Point-and-click,1181
+Role-playing (RPG),1181
+Simulator,1181
+Racing,1182
+Role-playing (RPG),1184
+Sport,1184
+Adventure,1190
+Role-playing (RPG),1190
+Role-playing (RPG),1196
+Simulator,1196
+Puzzle,1203
+Arcade,1204
+Puzzle,1204
+Adventure,1205
+Indie,1205
+Adventure,1208
+Role-playing (RPG),1208
+Adventure,1218
+Visual Novel,1218
+Unknow,1221
+Puzzle,1225
+Unknow,1230
+Indie,1241
+Puzzle,1241
+Role-playing (RPG),1241
+Unknow,1246
+Adventure,1251
+Simulator,1251
+Adventure,1252
+Visual Novel,1252
+Racing,1257
+Simulator,1257
+Unknow,1258
+Sport,1261
+Role-playing (RPG),1262
+Shooter,1262
+Unknow,1272
+Role-playing (RPG),1283
+Quiz/Trivia,1284
+Simulator,1286
+Arcade,1288
+Puzzle,1289
+Arcade,1300
+Indie,1302
+Platform,1302
+Puzzle,1302
+Simulator,1304
+Sport,1304
+Indie,1305
+Shooter,1305
+Arcade,1308
+Racing,1308
+Indie,1310
+Adventure,1311
+Indie,1311
+Music,1311
+Hack and slash/Beat 'em up,1319
+Platform,1319
+Strategy,1323
+Tactical,1323
+Strategy,1327
+Adventure,1332
+Simulator,1332
+Fighting,1337
+Arcade,1341
+Platform,1341
+Puzzle,1341
+Arcade,1342
+Role-playing (RPG),1353
+Simulator,1353
+Unknow,1355
+Adventure,1357
+Simulator,1357
+Role-playing (RPG),1358
+Puzzle,1360
+Adventure,1362
+Indie,1362
+Point-and-click,1362
+Puzzle,1362
+Adventure,1371
+Arcade,1371
+Indie,1371
+Shooter,1371
+Simulator,1377
+Adventure,1381
+Puzzle,1381
+Arcade,1382
+Indie,1382
+Puzzle,1382
+Sport,1383
+Turn-based strategy (TBS),1383
+Arcade,1389
+Racing,1389
+Adventure,1397
+Role-playing (RPG),1397
+Unknow,1399
+Racing,1404
+Sport,1404
+Arcade,1414
+Indie,1414
+Adventure,1416
+Shooter,1416
+Simulator,1422
+Indie,1427
+Simulator,1427
+Strategy,1427
+Adventure,1443
+Indie,1443
+Platform,1443
+Puzzle,1443
+Adventure,1450
+Role-playing (RPG),1450
+Adventure,1451
+Indie,1451
+Visual Novel,1451
+Adventure,1455
+Indie,1455
+Role-playing (RPG),1455
+Adventure,1460
+Racing,1460
+Shooter,1466
+Strategy,1478
+Turn-based strategy (TBS),1478
+Adventure,1480
+Role-playing (RPG),1480
+Sport,1488
+Arcade,1490
+Indie,1490
+Role-playing (RPG),1493
+Platform,1507
+Shooter,1507
+Strategy,1508
+Indie,1509
+Puzzle,1509
+Indie,1513
+Puzzle,1513
+Adventure,1521
+Role-playing (RPG),1521
+Adventure,1524
+Point-and-click,1524
+Role-playing (RPG),1524
+Indie,1530
+Point-and-click,1530
+Puzzle,1530
+Strategy,1536
+Role-playing (RPG),1541
+Shooter,1542
+Arcade,1544
+Adventure,1545
+Indie,1545
+Platform,1545
+Adventure,1549
+Fighting,1549
+Hack and slash/Beat 'em up,1549
+Role-playing (RPG),1549
+Adventure,1550
+Role-playing (RPG),1550
+Shooter,1550
+Simulator,1550
+Strategy,1550
+Arcade,1555
+Indie,1555
+Racing,1555
+Shooter,1555
+Puzzle,1559
+Arcade,1568
+Puzzle,1568
+Real Time Strategy (RTS),1574
+Strategy,1574
+Hack and slash/Beat 'em up,1577
+Role-playing (RPG),1577
+Adventure,1580
+Role-playing (RPG),1580
+Fighting,1583
+Shooter,1583
+Strategy,1583
+Arcade,1584
+Indie,1584
+Indie,1586
+Simulator,1586
+Adventure,1587
+Indie,1587
+Point-and-click,1587
+Shooter,1587
+Tactical,1587
+Arcade,1592
+Music,1592
+Puzzle,1593
+Indie,1595
+Role-playing (RPG),1595
+Strategy,1595
+Sport,1597
+Adventure,1598
+Indie,1598
+Puzzle,1598
+Role-playing (RPG),1598
+Strategy,1598
+Strategy,1609
+Adventure,1619
+Puzzle,1619
+Adventure,1621
+Indie,1621
+Platform,1621
+Simulator,1621
+Strategy,1621
+Arcade,1630
+Platform,1632
+Role-playing (RPG),1632
+Indie,1651
+Puzzle,1651
+Adventure,1653
+Role-playing (RPG),1653
+Strategy,1653
+Hack and slash/Beat 'em up,1660
+Role-playing (RPG),1660
+Racing,1666
+Adventure,1671
+Point-and-click,1671
+Puzzle,1671
+Arcade,1673
+Sport,1673
+Indie,1676
+Turn-based strategy (TBS),1676
+Music,1678
+Arcade,1681
+Sport,1681
+Puzzle,1685
+Unknow,1686
+Indie,1689
+Strategy,1689
+Arcade,1692
+Indie,1692
+Platform,1692
+Indie,1694
+Role-playing (RPG),1694
+Indie,1695
+Strategy,1695
+Strategy,1697
+Role-playing (RPG),1699
+Simulator,1699
+Fighting,1704
+Indie,1704
+Simulator,1704
+Strategy,1704
+Arcade,1705
+Arcade,1709
+Indie,1709
+Music,1709
+Platform,1709
+Fighting,1710
+Adventure,1724
+Indie,1724
+Puzzle,1724
+Strategy,1724
+Sport,1725
+Platform,1728
+Shooter,1728
+Adventure,1738
+Indie,1738
+Platform,1738
+Puzzle,1738
+Simulator,1743
+Arcade,1744
+Shooter,1744
+Adventure,1750
+Indie,1750
+Visual Novel,1750
+Fighting,1763
+Puzzle,1763
+Strategy,1764
+Adventure,1765
+Indie,1765
+Indie,1768
+Role-playing (RPG),1768
+Strategy,1768
+Tactical,1768
+Adventure,1774
+Indie,1774
+Point-and-click,1774
+Racing,1774
+Role-playing (RPG),1774
+Simulator,1774
+Sport,1774
+Strategy,1774
+Real Time Strategy (RTS),1787
+Strategy,1788
+Turn-based strategy (TBS),1788
+Role-playing (RPG),1793
+Simulator,1793
+Turn-based strategy (TBS),1795
+Puzzle,1807
+Arcade,1812
+Strategy,1813
+Indie,1818
+Strategy,1818
+Turn-based strategy (TBS),1818
+Adventure,1823
+Point-and-click,1823
+Puzzle,1823
+Hack and slash/Beat 'em up,1826
+Role-playing (RPG),1826
+Role-playing (RPG),1832
+Strategy,1832
+Turn-based strategy (TBS),1832
+Adventure,1833
+Indie,1833
+Role-playing (RPG),1833
+Platform,1841
+Indie,1848
+Strategy,1848
+Turn-based strategy (TBS),1848
+Unknow,1850
+Indie,1852
+Sport,1852
+Adventure,1855
+Indie,1855
+Puzzle,1855
+Strategy,1855
+Turn-based strategy (TBS),1855
+Unknow,1862
+Adventure,1864
+Indie,1864
+Strategy,1864
+Unknow,1868
+Unknow,1873
+Adventure,1876
+Strategy,1879
+Arcade,1880
+Adventure,1881
+Platform,1881
+Real Time Strategy (RTS),1881
+Strategy,1881
+Adventure,1887
+Role-playing (RPG),1887
+Indie,1892
+Puzzle,1892
+Unknow,1895
+Adventure,1900
+Indie,1900
+Platform,1900
+Adventure,1902
+Indie,1902
+Simulator,1902
+Strategy,1902
+Indie,1906
+Strategy,1906
+Real Time Strategy (RTS),1908
+Strategy,1908
+Indie,1911
+Simulator,1911
+Arcade,1925
+Adventure,1929
+Adventure,1930
+Hack and slash/Beat 'em up,1930
+Role-playing (RPG),1930
+Simulator,1930
+Strategy,1930
+Adventure,1939
+Fighting,1939
+Hack and slash/Beat 'em up,1939
+Indie,1939
+Music,1939
+Platform,1939
+Role-playing (RPG),1939
+Strategy,1939
+Turn-based strategy (TBS),1939
+Arcade,1948
+Indie,1948
+Role-playing (RPG),1949
+Indie,1952
+Real Time Strategy (RTS),1952
+Strategy,1952
+Indie,1955
+Simulator,1955
+Indie,1957
+Role-playing (RPG),1960
+Strategy,1960
+Unknow,1963
+Arcade,1965
+Indie,1965
+Racing,1966
+Shooter,1966
+Strategy,1966
+Unknow,1970
+Indie,1971
+Puzzle,1972
+Arcade,1977
+Sport,1981
+Role-playing (RPG),1989
+Simulator,1989
+Strategy,1989
+Adventure,1990
+Simulator,1990
+Platform,1997
+Shooter,2007
+Role-playing (RPG),2010
+Indie,2011
+Real Time Strategy (RTS),2011
+Strategy,2011
+Indie,2012
+Point-and-click,2012
+Role-playing (RPG),2024
+Adventure,2046
+Puzzle,2046
+Unknow,2051
+Puzzle,2054
+Adventure,2058
+Role-playing (RPG),2058
+Sport,2058
+Strategy,2064
+Tactical,2064
+Unknow,2066
+Role-playing (RPG),2068
+Quiz/Trivia,2092
+Strategy,2092
+Simulator,2093
+Arcade,2094
+Indie,2094
+Puzzle,2096
+Arcade,2097
+Music,2097
+Arcade,2101
+Simulator,2101
+Adventure,2108
+Role-playing (RPG),2108
+Indie,2110
+Sport,2110
+Sport,2119
+Adventure,2125
+Fighting,2125
+Simulator,2125
+Strategy,2125
+Turn-based strategy (TBS),2125
+Arcade,2129
+Indie,2129
+Role-playing (RPG),2132
+Strategy,2132
+Puzzle,2133
+Shooter,2134
+Adventure,2136
+Indie,2136
+Role-playing (RPG),2136
+Puzzle,2141
+Arcade,2148
+Indie,2148
+Platform,2148
+Adventure,2153
+Adventure,2160
+Point-and-click,2160
+Puzzle,2160
+Strategy,2161
+Strategy,2163
+Indie,2164
+Shooter,2164
+Puzzle,2166
+Hack and slash/Beat 'em up,2169
+Strategy,2172
+Arcade,2176
+Indie,2176
+Platform,2176
+Puzzle,2176
+Unknow,2180
+Indie,2181
+Shooter,2182
+Arcade,2183
+Shooter,2187
+Simulator,2187
+Sport,2187
+Sport,2188
+Real Time Strategy (RTS),2195
+Role-playing (RPG),2205
+Strategy,2205
+Turn-based strategy (TBS),2205
+Adventure,2206
+Indie,2206
+Platform,2206
+Role-playing (RPG),2206
+Puzzle,2208
+Shooter,2208
+Puzzle,2210
+Role-playing (RPG),2213
+Arcade,2219
+Indie,2223
+Puzzle,2223
+Role-playing (RPG),2225
+Strategy,2225
+Adventure,2229
+Indie,2229
+Indie,2244
+Role-playing (RPG),2244
+Role-playing (RPG),2252
+Unknow,2254
+Unknow,2266
+Indie,2267
+Puzzle,2267
+Role-playing (RPG),2267
+Simulator,2267
+Strategy,2267
+Indie,2270
+Puzzle,2270
+Simulator,2270
+Adventure,2273
+Puzzle,2273
+Role-playing (RPG),2273
+Role-playing (RPG),2275
+Adventure,2276
+Indie,2276
+Role-playing (RPG),2276
+Role-playing (RPG),2277
+Indie,2279
+Role-playing (RPG),2279
+Strategy,2279
+Tactical,2279
+Turn-based strategy (TBS),2279
+Indie,2280
+Puzzle,2280
+Arcade,2285
+Indie,2285
+Indie,2287
+Strategy,2287
+Puzzle,2288
+Music,2289
+Adventure,2293
+Indie,2293
+Role-playing (RPG),2293
+Simulator,2298
+Indie,2303
+Puzzle,2303
+Adventure,2321
+Role-playing (RPG),2321
+Indie,2325
+Simulator,2325
+Adventure,2329
+Indie,2329
+Puzzle,2329
+Role-playing (RPG),2329
+Simulator,2329
+Strategy,2329
+Point-and-click,2335
+Simulator,2335
+Strategy,2335
+Indie,2343
+Arcade,2358
+Puzzle,2358
+Turn-based strategy (TBS),2363
+Adventure,2364
+Role-playing (RPG),2364
+Unknow,2371
+Role-playing (RPG),2386
+Puzzle,2391
+Shooter,2395
+Adventure,2396
+Adventure,2397
+Indie,2397
+Adventure,2399
+Role-playing (RPG),2399
+Puzzle,2401
+Indie,2404
+Strategy,2404
+Turn-based strategy (TBS),2404
+Role-playing (RPG),2405
+Indie,2406
+Platform,2406
+Arcade,2410
+Indie,2410
+Arcade,2412
+Platform,2412
+Arcade,2414
+Indie,2414
+Puzzle,2414
+Adventure,2416
+Indie,2421
+Puzzle,2421
+Simulator,2423
+Visual Novel,2423
+Adventure,2429
+Platform,2429
+Adventure,2445
+Puzzle,2445
+Quiz/Trivia,2450
+Strategy,2450
+Turn-based strategy (TBS),2450
+Simulator,2452
+Strategy,2452
+Adventure,2453
+Indie,2453
+Quiz/Trivia,2456
+Puzzle,2459
+Arcade,2460
+Arcade,2467
+Puzzle,2469
+Simulator,2469
+Strategy,2469
+Simulator,2472
+Sport,2472
+Puzzle,2473
+Simulator,2473
+Arcade,2475
+Indie,2475
+Sport,2476
+Adventure,2496
+Indie,2496
+Arcade,2497
+Indie,2497
+Platform,2497
+Role-playing (RPG),2503
+Adventure,2505
+Indie,2505
+Role-playing (RPG),2505
+Simulator,2505
+Strategy,2505
+Adventure,2508
+Indie,2508
+Role-playing (RPG),2508
+Shooter,2508
+Indie,2522
+Simulator,2522
+Strategy,2522
+Puzzle,2523
+Adventure,2524
+Indie,2524
+Puzzle,2524
+Strategy,2524
+Simulator,2525
+Adventure,2535
+Adventure,2543
+Arcade,2543
+Indie,2543
+Simulator,2543
+Strategy,2543
+Indie,2545
+Role-playing (RPG),2545
+Adventure,2546
+Adventure,2550
+Indie,2550
+Point-and-click,2550
+Puzzle,2550
+Puzzle,2565
+Adventure,2567
+Indie,2567
+Puzzle,2567
+Adventure,2568
+Unknow,2570
+Role-playing (RPG),2571
+Simulator,2571
+Shooter,2574
+Strategy,2580
+Puzzle,2582
+Role-playing (RPG),2582
+Indie,2585
+Platform,2590
+Puzzle,2590
+Adventure,2596
+Indie,2596
+Platform,2596
+Puzzle,2596
+Adventure,2597
+Indie,2597
+Role-playing (RPG),2597
+Arcade,2603
+Real Time Strategy (RTS),2608
+Strategy,2608
+Arcade,2619
+Puzzle,2621
+Role-playing (RPG),2624
+Turn-based strategy (TBS),2624
+Indie,2627
+Puzzle,2627
+Role-playing (RPG),2630
+Turn-based strategy (TBS),2630
+Puzzle,2635
+Quiz/Trivia,2636
+Role-playing (RPG),2637
+Adventure,2643
+Role-playing (RPG),2643
+Arcade,2648
+Indie,2648
+Shooter,2648
+Arcade,2651
+Indie,2651
+Puzzle,2659
+Indie,2677
+Strategy,2677
+Simulator,2681
+Indie,2688
+Simulator,2688
+Strategy,2688
+Role-playing (RPG),2690
+Adventure,2717
+Indie,2717
+Platform,2717
+Puzzle,2717
+Real Time Strategy (RTS),2720
+Strategy,2720
+Shooter,2721
+Racing,2727
+Indie,2731
+Role-playing (RPG),2731
+Strategy,2731
+Adventure,2737
+Arcade,2737
+Indie,2737
+Platform,2737
+Shooter,2744
+Adventure,2759
+Indie,2759
+Puzzle,2759
+Quiz/Trivia,2764
+Visual Novel,2765
+Indie,2766
+Platform,2766
+Card & Board Game,2771
+Strategy,2771
+Turn-based strategy (TBS),2771
+Puzzle,2777
+Platform,2778
+Real Time Strategy (RTS),2781
+Strategy,2781
+Sport,2786
+Role-playing (RPG),2790
+Tactical,2790
+Puzzle,2791
+Arcade,2798
+Platform,2798
+Fighting,2801
+Hack and slash/Beat 'em up,2801
+Adventure,2805
+Indie,2805
+Point-and-click,2805
+Puzzle,2805
+Adventure,2810
+Simulator,2818
+Strategy,2818
+Adventure,2832
+Role-playing (RPG),2832
+Simulator,2835
+Role-playing (RPG),2836
+Arcade,2838
+Arcade,2845
+Indie,2845
+Platform,2845
+Hack and slash/Beat 'em up,2853
+Role-playing (RPG),2853
+Strategy,2853
+Arcade,2857
+Simulator,2858
+Arcade,2859
+Racing,2859
+Adventure,2862
+Fighting,2862
+Puzzle,2863
+Indie,2866
+Arcade,2868
+Puzzle,2870
+Indie,2881
+Puzzle,2881
+Strategy,2881
+Simulator,2882
+Adventure,2889
+Platform,2889
+Puzzle,2889
+Sport,2889
+Strategy,2889
+Puzzle,2895
+Sport,2896
+Indie,2903
+Simulator,2903
+Strategy,2903
+Turn-based strategy (TBS),2903
+Indie,2905
+Indie,2911
+Puzzle,2911
+Strategy,2911
+Racing,2912
+Strategy,2918
+Turn-based strategy (TBS),2918
+Adventure,2921
+Indie,2921
+Shooter,2921
+Simulator,2921
+Unknow,2923
+Adventure,2930
+Puzzle,2932
+Indie,2933
+Puzzle,2933
+Role-playing (RPG),2934
+Simulator,2937
+Strategy,2937
+Indie,2940
+Sport,2940
+Indie,2949
+Role-playing (RPG),2949
+Simulator,2949
+Strategy,2949
+Indie,2954
+Puzzle,2954
+Racing,2958
+Arcade,2959
+Puzzle,2959
+Adventure,2961
+Arcade,2961
+Puzzle,2964
+Hack and slash/Beat 'em up,2965
+Indie,2965
+Adventure,2973
+Simulator,2973
+Puzzle,2975
+Role-playing (RPG),2986
+Arcade,2992
+Indie,2992
+Role-playing (RPG),2995
+Strategy,2997
+Tactical,2997
+Adventure,3001
+Indie,3001
+Simulator,3001
+Role-playing (RPG),3004
+Turn-based strategy (TBS),3004
+Fighting,3008
+Role-playing (RPG),3008
+Racing,3012
+Adventure,3014
+Arcade,3014
+Arcade,3016
+Indie,3016
+Platform,3016
+Indie,3020
+Puzzle,3020
+Strategy,3020
+Quiz/Trivia,3025
+Adventure,3030
+Indie,3030
+Point-and-click,3030
+Arcade,3034
+Puzzle,3034
+Role-playing (RPG),3036
+Simulator,3042
+Sport,3042
+Arcade,3047
+Indie,3047
+Tactical,3047
+Arcade,3065
+Shooter,3065
+Role-playing (RPG),3066
+Adventure,3069
+Puzzle,3069
+Indie,3071
+Racing,3071
+Simulator,3071
+Sport,3071
+Role-playing (RPG),3082
+Adventure,3086
+Role-playing (RPG),3086
+Strategy,3088
+Role-playing (RPG),3091
+Puzzle,3099
+Arcade,3106
+Indie,3106
+Role-playing (RPG),3107
+Indie,3126
+Puzzle,3126
+Indie,3128
+Role-playing (RPG),3128
+Simulator,3128
+Racing,3133
+Strategy,3133
+Adventure,3134
+Indie,3134
+Platform,3134
+Adventure,3136
+Platform,3136
+Adventure,3144
+Indie,3144
+Platform,3144
+Puzzle,3144
+Fighting,3146
+Role-playing (RPG),3146
+Hack and slash/Beat 'em up,3159
+Racing,3160
+Simulator,3173
+Sport,3173
+Strategy,3173
+Indie,3177
+Turn-based strategy (TBS),3177
+Arcade,3194
+Puzzle,3194
+Indie,3196
+Sport,3196
+Adventure,3197
+Indie,3197
+Point-and-click,3197
+Strategy,3197
+Strategy,3213
+Puzzle,3214
+Turn-based strategy (TBS),3214
+Unknow,3220
+Arcade,3222
+Indie,3222
+Platform,3222
+Simulator,3223
+Unknow,3226
+Arcade,3230
+Indie,3230
+Simulator,3231
+Sport,3231
+Strategy,3231
+Arcade,3233
+Indie,3236
+Real Time Strategy (RTS),3236
+Strategy,3236
+Role-playing (RPG),3241
+Simulator,3241
+Adventure,3244
+Indie,3244
+Puzzle,3244
+Adventure,3245
+Indie,3245
+Role-playing (RPG),3245
+Strategy,3245
+Adventure,3246
+Indie,3246
+Platform,3246
+Role-playing (RPG),3251
+Platform,3257
+Adventure,3259
+Indie,3259
+Role-playing (RPG),3259
+Strategy,3259
+Tactical,3259
+Adventure,3266
+Indie,3266
+Puzzle,3266
+Arcade,3273
+Indie,3273
+Puzzle,3273
+Adventure,3280
+Visual Novel,3280
+Indie,3284
+Point-and-click,3284
+Simulator,3284
+Adventure,3298
+Tactical,3298
+Adventure,3302
+Indie,3303
+Indie,3306
+Puzzle,3306
+Strategy,3306
+Tactical,3306
+Turn-based strategy (TBS),3306
+Puzzle,3307
+Strategy,3307
+Arcade,3308
+Indie,3308
+Platform,3316
+Puzzle,3316
+Adventure,3324
+Fighting,3324
+Quiz/Trivia,3326
+Puzzle,3327
+Adventure,3328
+Indie,3328
+Real Time Strategy (RTS),3328
+Role-playing (RPG),3328
+Strategy,3328
+Tactical,3328
+Indie,3330
+Simulator,3330
+Strategy,3330
+Indie,3336
+Indie,3340
+Puzzle,3340
+Role-playing (RPG),3341
+Strategy,3341
+Turn-based strategy (TBS),3341
+Adventure,3360
+Puzzle,3360
+Role-playing (RPG),3360
+Hack and slash/Beat 'em up,3361
+Role-playing (RPG),3361
+Role-playing (RPG),3366
+Simulator,3366
+Adventure,3369
+Puzzle,3369
+Indie,3376
+Role-playing (RPG),3376
+Unknow,3384
+Arcade,3385
+Indie,3385
+Arcade,3386
+Indie,3403
+Role-playing (RPG),3403
+Strategy,3403
+Turn-based strategy (TBS),3403
+Adventure,3412
+Adventure,3415
+Indie,3415
+Quiz/Trivia,3415
+Simulator,3415
+Visual Novel,3415
+Indie,3435
+Role-playing (RPG),3435
+Indie,3443
+Indie,3451
+Role-playing (RPG),3451
+Shooter,3451
+Real Time Strategy (RTS),3452
+Role-playing (RPG),3452
+Strategy,3452
+Hack and slash/Beat 'em up,3455
+Shooter,3455
+Real Time Strategy (RTS),3456
+Strategy,3456
+Shooter,3460
+Shooter,3465
+Puzzle,3468
+Role-playing (RPG),3475
+Turn-based strategy (TBS),3475
+Adventure,3485
+Indie,3485
+Puzzle,3485
+Puzzle,3486
+Unknow,3487
+Puzzle,3496
+Adventure,3497
+Hack and slash/Beat 'em up,3497
+Puzzle,3497
+Arcade,3498
+Arcade,3501
+Puzzle,3501
+Adventure,3504
+Indie,3504
+Role-playing (RPG),3504
+Adventure,3508
+Role-playing (RPG),3508
+Puzzle,3509
+Adventure,3512
+Fighting,3512
+Role-playing (RPG),3512
+Adventure,3516
+Indie,3516
+Role-playing (RPG),3516
+Unknow,3518
+Role-playing (RPG),3523
+Strategy,3525
+Arcade,3527
+Sport,3527
+Indie,3528
+Puzzle,3528
+Strategy,3528
+Tactical,3528
+Quiz/Trivia,3529
+Indie,3532
+Puzzle,3532
+Platform,3534
+Role-playing (RPG),3534
+Point-and-click,3538
+Shooter,3538
+Adventure,3546
+Role-playing (RPG),3546
+Tactical,3546
+Adventure,3558
+Simulator,3558
+Role-playing (RPG),3560
+Visual Novel,3562
+Role-playing (RPG),3564
+Adventure,3567
+Strategy,3567
+Turn-based strategy (TBS),3567
+Arcade,3568
+Arcade,3575
+Point-and-click,3588
+Simulator,3588
+Simulator,3592
+Real Time Strategy (RTS),3597
+Role-playing (RPG),3597
+Strategy,3597
+Simulator,3605
+Strategy,3605
+Hack and slash/Beat 'em up,3609
+Role-playing (RPG),3609
+Unknow,3617
+Arcade,3621
+Indie,3623
+Indie,3627
+Puzzle,3627
+Strategy,3627
+Simulator,3633
+Shooter,3642
+Adventure,3647
+Indie,3647
+Role-playing (RPG),3647
+Adventure,3649
+Hack and slash/Beat 'em up,3649
+Role-playing (RPG),3649
+Puzzle,3651
+Arcade,3660
+Arcade,3671
+Arcade,3672
+Sport,3672
+Unknow,3673
+Simulator,3674
+Role-playing (RPG),3675
+Simulator,3675
+Adventure,3677
+Indie,3677
+Role-playing (RPG),3677
+Simulator,3677
+Visual Novel,3677
+Role-playing (RPG),3697
+Shooter,3697
+Indie,3700
+Puzzle,3700
+Role-playing (RPG),3701
+Sport,3701
+Role-playing (RPG),3705
+Arcade,3706
+Fighting,3706
+Simulator,3713
+Adventure,3717
+Arcade,3717
+Indie,3723
+Puzzle,3723
+Puzzle,3726
+Puzzle,3731
+Indie,3733
+Puzzle,3735
+Arcade,3737
+Adventure,3739
+Indie,3739
+Point-and-click,3739
+Simulator,3739
+Strategy,3739
+Arcade,3741
+Adventure,3746
+Puzzle,3746
+Visual Novel,3746
+Adventure,3749
+Indie,3749
+Adventure,3775
+Indie,3775
+Role-playing (RPG),3775
+Role-playing (RPG),3780
+Strategy,3780
+Tactical,3780
+Unknow,3788
+Shooter,3789
+Strategy,3794
+Unknow,3797
+Adventure,3798
+Indie,3798
+Indie,3801
+Adventure,3803
+Indie,3803
+Role-playing (RPG),3803
+Adventure,3807
+Fighting,3807
+Indie,3807
+Shooter,3807
+Strategy,3812
+Unknow,3813
+Strategy,3821
+Puzzle,3826
+Arcade,3830
+Shooter,3830
+Indie,3837
+Music,3837
+Puzzle,3837
+Adventure,3838
+Puzzle,3838
+Strategy,3838
+Role-playing (RPG),3844
+Strategy,3844
+Fighting,3849
+Puzzle,3850
+Arcade,3854
+Shooter,3854
+Indie,3859
+Puzzle,3859
+Puzzle,3861
+Music,3863
+Adventure,3865
+Platform,3865
+Adventure,3877
+Puzzle,3877
+Turn-based strategy (TBS),3877
+Unknow,3878
+Puzzle,3887
+Tactical,3887
+Unknow,3892
+Puzzle,3893
+Sport,3893
+Indie,3895
+Simulator,3895
+Strategy,3895
+Adventure,3900
+Role-playing (RPG),3900
+Adventure,3905
+Puzzle,3905
+Strategy,3905
+Arcade,3909
+Indie,3909
+Puzzle,3909
+Role-playing (RPG),3914
+Puzzle,3918
+Shooter,3918
+Sport,3918
+Strategy,3919
+Adventure,3926
+Puzzle,3926
+Indie,3929
+Role-playing (RPG),3929
+Puzzle,3935
+Role-playing (RPG),3939
+Turn-based strategy (TBS),3939
+Puzzle,3946
+Arcade,3948
+Simulator,3948
+Simulator,3959
+Simulator,3961
+Strategy,3961
+Arcade,3975
+Puzzle,3975
+Indie,3979
+Shooter,3979
+Role-playing (RPG),3994
+Simulator,3994
+Adventure,3999
+Role-playing (RPG),3999
+Adventure,4004
+Indie,4004
+Point-and-click,4004
+Adventure,4014
+Puzzle,4014
+Strategy,4014
+Arcade,4019
+Indie,4019
+Shooter,4019
+Adventure,4023
+Adventure,4027
+Indie,4027
+Platform,4027
+Puzzle,4027
+Indie,4030
+Simulator,4030
+Quiz/Trivia,4038
+Adventure,4040
+Strategy,4040
+Platform,4043
+Puzzle,4043
+Platform,4049
+Simulator,4060
+Adventure,4062
+Indie,4062
+Simulator,4062
+Strategy,4062
+Adventure,4063
+Racing,4063
+Adventure,4065
+Indie,4065
+Puzzle,4065
+Visual Novel,4067
+Indie,4069
+Shooter,4069
+Adventure,4071
+Role-playing (RPG),4071
+Strategy,4071
+Tactical,4071
+Role-playing (RPG),4072
+Adventure,4079
+Point-and-click,4079
+Puzzle,4079
+Indie,4085
+Puzzle,4085
+Shooter,4089
+Real Time Strategy (RTS),4091
+Shooter,4091
+Strategy,4091
+Adventure,4101
+Puzzle,4101
+Strategy,4101
+Arcade,4109
+Indie,4109
+Puzzle,4122
+Sport,4122
+Adventure,4123
+Arcade,4130
+Racing,4130
+Role-playing (RPG),4132
+Turn-based strategy (TBS),4132
+Adventure,4136
+Hack and slash/Beat 'em up,4136
+Role-playing (RPG),4136
+Indie,4140
+Role-playing (RPG),4143
+Indie,4145
+Racing,4145
+Simulator,4145
+Strategy,4145
+Adventure,4146
+Role-playing (RPG),4146
+Platform,4154
+Indie,4159
+Puzzle,4159
+Strategy,4159
+Music,4162
+Adventure,4164
+Indie,4164
+Puzzle,4164
+Adventure,4165
+Indie,4165
+Platform,4165
+Puzzle,4165
+Indie,4169
+Puzzle,4169
+Hack and slash/Beat 'em up,4172
+Role-playing (RPG),4181
+Music,4191
+Indie,4198
+Simulator,4198
+Strategy,4198
+Hack and slash/Beat 'em up,4207
+Indie,4207
+Role-playing (RPG),4207
+Strategy,4213
+Role-playing (RPG),4214
+Simulator,4214
+Adventure,4216
+Indie,4216
+Adventure,4223
+Indie,4223
+Simulator,4223
+Indie,4226
+Platform,4226
+Sport,4226
+Adventure,4232
+Indie,4232
+Role-playing (RPG),4232
+Adventure,4234
+Simulator,4234
+Puzzle,4236
+Simulator,4238
+Adventure,4240
+Indie,4240
+Racing,4243
+Strategy,4244
+Role-playing (RPG),4275
+Puzzle,4276
+Simulator,4276
+Adventure,4284
+Role-playing (RPG),4284
+Puzzle,4297
+Music,4298
+Adventure,4301
+Arcade,4301
+Indie,4301
+Platform,4301
+Point-and-click,4301
+Arcade,4302
+Indie,4302
+Puzzle,4302
+Unknow,4304
+Indie,4309
+Role-playing (RPG),4309
+Adventure,4310
+Simulator,4310
+Puzzle,4314
+Arcade,4316
+Unknow,4325
+Arcade,4327
+Indie,4327
+Platform,4327
+Sport,4334
+Indie,4342
+Role-playing (RPG),4342
+Indie,4346
+Simulator,4346
+Role-playing (RPG),4347
+Shooter,4347
+Adventure,4353
+Arcade,4353
+Platform,4353
+Simulator,4363
+Strategy,4363
+Adventure,4377
+Simulator,4377
+Indie,4378
+Indie,4379
+Role-playing (RPG),4379
+Simulator,4379
+Arcade,4380
+Shooter,4380
+Unknow,4383
+Simulator,4387
+Strategy,4387
+Adventure,4398
+Simulator,4398
+Adventure,4414
+Simulator,4414
+Visual Novel,4414
+Adventure,4416
+Indie,4416
+Shooter,4416
+Fighting,4419
+Puzzle,4419
+Strategy,4419
+Fighting,4421
+Hack and slash/Beat 'em up,4421
+Indie,4421
+Sport,4421
+Role-playing (RPG),4427
+Indie,4428
+Puzzle,4428
+Visual Novel,4434
+Puzzle,4435
+Shooter,4441
+Adventure,4444
+Shooter,4444
+Indie,4447
+Puzzle,4447
+Adventure,4449
+Point-and-click,4449
+Arcade,4464
+Adventure,4465
+Arcade,4465
+Unknow,4466
+Unknow,4468
+Strategy,4471
+Puzzle,4472
+Strategy,4475
+Puzzle,4481
+Strategy,4483
+Tactical,4483
+Adventure,4489
+Role-playing (RPG),4489
+Strategy,4489
+Unknow,4494
+Role-playing (RPG),4498
+Strategy,4498
+Tactical,4498
+Arcade,4511
+Shooter,4511
+Turn-based strategy (TBS),4511
+Unknow,4512
+Adventure,4523
+Indie,4523
+Tactical,4523
+Fighting,4526
+Strategy,4533
+Turn-based strategy (TBS),4533
+Strategy,4536
+Indie,4544
+Pinball,4544
+Adventure,4551
+Adventure,4553
+Point-and-click,4553
+Strategy,4561
+Arcade,4569
+Indie,4569
+Shooter,4569
+Adventure,4573
+Indie,4573
+Role-playing (RPG),4573
+Strategy,4573
+Quiz/Trivia,4579
+Strategy,4579
+Adventure,4580
+Simulator,4580
+Strategy,4580
+Arcade,4586
+Platform,4586
+Arcade,4589
+Platform,4589
+Arcade,4591
+Shooter,4591
+Adventure,4593
+Puzzle,4593
+Strategy,4596
+Tactical,4596
+Turn-based strategy (TBS),4596
+Adventure,4605
+Hack and slash/Beat 'em up,4605
+Point-and-click,4605
+Hack and slash/Beat 'em up,4610
+Role-playing (RPG),4610
+Adventure,4613
+Indie,4613
+Simulator,4613
+Simulator,4615
+Adventure,4616
+Indie,4616
+Role-playing (RPG),4619
+Turn-based strategy (TBS),4619
+Unknow,4621
+Arcade,4625
+Racing,4625
+Fighting,4631
+Indie,4631
+Indie,4648
+Puzzle,4648
+Puzzle,4650
+Unknow,4652
+Arcade,4656
+Indie,4656
+Indie,4658
+Puzzle,4658
+Puzzle,4668
+Adventure,4671
+Indie,4671
+Role-playing (RPG),4671
+Strategy,4674
+Role-playing (RPG),4691
+Strategy,4691
+Platform,4693
+Puzzle,4694
+Hack and slash/Beat 'em up,4700
+Unknow,4709
+Arcade,4710
+Indie,4710
+Unknow,4716
+Music,4722
+Arcade,4724
+Puzzle,4724
+Adventure,4730
+Indie,4730
+Role-playing (RPG),4730
+Indie,4744
+Shooter,4744
+Music,4748
+Arcade,4751
+Arcade,4755
+Puzzle,4766
+Strategy,4766
+Racing,4767
+Racing,4774
+Simulator,4774
+Sport,4774
+Strategy,4783
+Indie,4790
+Platform,4790
+Puzzle,4790
+Fighting,4800
+Simulator,4809
+Strategy,4809
+Turn-based strategy (TBS),4811
+Adventure,4816
+Indie,4820
+Puzzle,4820
+Adventure,4833
+Indie,4833
+Puzzle,4833
+Adventure,4834
+Point-and-click,4834
+Puzzle,4834
+Arcade,4838
+Puzzle,4852
+Arcade,4856
+Sport,4856
+Strategy,4866
+Adventure,4867
+Role-playing (RPG),4867
+Arcade,4881
+Racing,4881
+Adventure,4884
+Puzzle,4884
+Simulator,4894
+Adventure,4902
+Indie,4902
+Unknow,4903
+Real Time Strategy (RTS),4908
+Simulator,4908
+Strategy,4908
+Indie,4909
+Visual Novel,4909
+Arcade,4912
+Puzzle,4915
+Simulator,4918
+Sport,4918
+Adventure,4924
+Platform,4924
+Adventure,4925
+Role-playing (RPG),4925
+Strategy,4925
+Adventure,4932
+Strategy,4932
+Puzzle,4937
+Arcade,4942
+Puzzle,4942
+Indie,4962
+Strategy,4962
+Adventure,4963
+Platform,4963
+Puzzle,4963
+Adventure,4977
+Indie,4977
+Role-playing (RPG),4977
+Simulator,4977
+Strategy,4977
+Adventure,4980
+Strategy,4986
+Platform,4988
+Indie,4997
+Puzzle,4997
+Role-playing (RPG),4997
+Strategy,4997
+Adventure,5001
+Indie,5001
+Simulator,5001
+Strategy,5001
+Shooter,5005
+Unknow,5007
+Role-playing (RPG),5014
+Strategy,5014
+Role-playing (RPG),5026
+Arcade,5034
+Arcade,5035
+Role-playing (RPG),5036
+Strategy,5036
+Puzzle,5040
+Adventure,5046
+Simulator,5046
+Strategy,5046
+Puzzle,5049
+Unknow,5054
+Pinball,5064
+Adventure,5065
+Indie,5065
+Shooter,5067
+Simulator,5067
+Adventure,5071
+Shooter,5071
+Adventure,5072
+Indie,5072
+Simulator,5078
+Simulator,5086
+Simulator,5089
+Strategy,5089
+Adventure,5094
+Indie,5094
+Role-playing (RPG),5094
+Simulator,5094
+Sport,5094
+Puzzle,5097
+Role-playing (RPG),5097
+Strategy,5097
+Role-playing (RPG),5100
+Puzzle,5101
+Adventure,5106
+Indie,5106
+Strategy,5106
+Turn-based strategy (TBS),5106
+Adventure,5111
+Arcade,5111
+Turn-based strategy (TBS),5121
+Adventure,5122
+Adventure,5123
+Puzzle,5123
+Arcade,5127
+Racing,5129
+Turn-based strategy (TBS),5133
+Unknow,5143
+Unknow,5145
+Arcade,5146
+Real Time Strategy (RTS),5148
+Role-playing (RPG),5148
+Turn-based strategy (TBS),5148
+Indie,5149
+Platform,5149
+Puzzle,5153
+Role-playing (RPG),5153
+Unknow,5158
+Unknow,5165
+Role-playing (RPG),5184
+Strategy,5184
+Tactical,5184
+Turn-based strategy (TBS),5184
+Real Time Strategy (RTS),5207
+Role-playing (RPG),5208
+Racing,5212
+Simulator,5212
+Sport,5212
+Role-playing (RPG),5214
+Adventure,5215
+Indie,5215
+Puzzle,5215
+Strategy,5215
+Platform,5217
+Role-playing (RPG),5218
+Adventure,5224
+Indie,5224
+Puzzle,5232
+Unknow,5239
+Arcade,5250
+Puzzle,5250
+Adventure,5256
+Indie,5256
+Role-playing (RPG),5256
+Indie,5257
+Simulator,5257
+Strategy,5257
+Turn-based strategy (TBS),5257
+Adventure,5262
+Puzzle,5263
+Adventure,5268
+Visual Novel,5268
+Simulator,5276
+Indie,5283
+Strategy,5283
+Adventure,5284
+Arcade,5284
+Platform,5284
+Puzzle,5284
+Role-playing (RPG),5289
+Arcade,5290
+Adventure,5291
+Fighting,5293
+Sport,5293
+Adventure,5296
+Puzzle,5296
+Fighting,5301
+Puzzle,5301
+Role-playing (RPG),5301
+Adventure,5303
+Arcade,5303
+Platform,5303
+Arcade,5305
+Indie,5307
+Point-and-click,5307
+Puzzle,5307
+Hack and slash/Beat 'em up,5311
+Role-playing (RPG),5311
+Strategy,5315
+Fighting,5347
+Role-playing (RPG),5347
+Puzzle,5351
+Strategy,5355
+Indie,5364
+Puzzle,5364
+Role-playing (RPG),5364
+Adventure,5367
+Puzzle,5367
+Strategy,5367
+Arcade,5368
+Indie,5368
+Simulator,5368
+Adventure,5374
+Puzzle,5374
+Simulator,5374
+Role-playing (RPG),5375
+Role-playing (RPG),5377
+Indie,5378
+Simulator,5378
+Strategy,5378
+Indie,5380
+Puzzle,5380
+Strategy,5380
+Turn-based strategy (TBS),5380
+Role-playing (RPG),5382
+Strategy,5382
+Tactical,5382
+Strategy,5388
+Unknow,5390
+Unknow,5391
+Adventure,5397
+Indie,5397
+Adventure,5400
+Racing,5405
+Simulator,5405
+Sport,5405
+Indie,5411
+Role-playing (RPG),5411
+Adventure,5415
+Indie,5415
+Adventure,5426
+Indie,5426
+Arcade,5428
+Indie,5428
+Adventure,5430
+Puzzle,5430
+Simulator,5432
+Unknow,5434
+Adventure,5444
+Arcade,5444
+Puzzle,5456
+Indie,5459
+Platform,5459
+Hack and slash/Beat 'em up,5461
+Role-playing (RPG),5461
+Adventure,5466
+Role-playing (RPG),5466
+Visual Novel,5466
+Adventure,5481
+Point-and-click,5481
+Puzzle,5481
+Strategy,5489
+Tactical,5489
+Adventure,5491
+Arcade,5491
+Platform,5491
+Role-playing (RPG),5491
+Role-playing (RPG),5492
+Platform,5500
+Arcade,5511
+Shooter,5511
+Simulator,5511
+Adventure,5513
+Role-playing (RPG),5513
+Adventure,5514
+Indie,5514
+Role-playing (RPG),5514
+Adventure,5521
+Indie,5521
+Role-playing (RPG),5521
+Simulator,5521
+Adventure,5524
+Indie,5524
+Strategy,5524
+Real Time Strategy (RTS),5525
+Adventure,5536
+Indie,5536
+Role-playing (RPG),5536
+Strategy,5537
+Turn-based strategy (TBS),5537
+Arcade,5538
+Indie,5538
+Arcade,5553
+Puzzle,5572
+Simulator,5572
+Puzzle,5578
+Adventure,5581
+Indie,5581
+Racing,5581
+Adventure,5583
+Fighting,5583
+Role-playing (RPG),5583
+Role-playing (RPG),5588
+Adventure,5591
+Puzzle,5591
+Role-playing (RPG),5591
+Strategy,5591
+Adventure,5592
+Platform,5592
+Role-playing (RPG),5592
+Racing,5594
+Adventure,5596
+Simulator,5596
+Adventure,5597
+Visual Novel,5597
+Shooter,5601
+Adventure,5603
+Indie,5603
+Point-and-click,5603
+Puzzle,5603
+Adventure,5607
+Point-and-click,5607
+Arcade,5608
+Shooter,5608
+Simulator,5608
+Role-playing (RPG),5609
+Adventure,5610
+Role-playing (RPG),5610
+Adventure,5617
+Indie,5617
+Point-and-click,5617
+Strategy,5617
+Adventure,5618
+Arcade,5619
+Indie,5619
+Simulator,5623
+Indie,5631
+Simulator,5631
+Puzzle,5644
+Arcade,5650
+Indie,5650
+Music,5650
+Platform,5650
+Adventure,5654
+Indie,5654
+Simulator,5654
+Visual Novel,5654
+Adventure,5656
+Indie,5656
+Puzzle,5656
+Adventure,5657
+Role-playing (RPG),5657
+Indie,5659
+Puzzle,5659
+Simulator,5661
+Sport,5661
+Music,5666
+Point-and-click,5666
+Role-playing (RPG),5673
+Simulator,5673
+Adventure,5681
+Indie,5681
+Shooter,5681
+Sport,5682
+Arcade,5686
+Simulator,5686
+Indie,5687
+Strategy,5687
+Turn-based strategy (TBS),5687
+Arcade,5688
+Platform,5688
+Arcade,5692
+Indie,5692
+Indie,5693
+Shooter,5693
+Adventure,5694
+Shooter,5694
+Arcade,5695
+Sport,5695
+Unknow,5702
+Unknow,5703
+Unknow,5711
+Simulator,5718
+Sport,5718
+Quiz/Trivia,5719
+Simulator,5735
+Puzzle,5741
+Indie,5746
+Role-playing (RPG),5746
+Unknow,5750
+Unknow,5753
+Indie,5757
+Puzzle,5757
+Platform,5765
+Tactical,5766
+Shooter,5769
+Role-playing (RPG),5772
+Puzzle,5777
+Quiz/Trivia,5784
+Strategy,5784
+Adventure,5786
+Role-playing (RPG),5786
+Arcade,5790
+Racing,5790
+Simulator,5791
+Indie,5792
+Shooter,5792
+Adventure,5793
+Indie,5793
+Platform,5793
+Puzzle,5793
+Adventure,5802
+Indie,5802
+Role-playing (RPG),5802
+Strategy,5802
+Tactical,5802
+Role-playing (RPG),5808
+Simulator,5808
+Music,5812
+Real Time Strategy (RTS),5814
+Role-playing (RPG),5814
+Strategy,5814
+Racing,5816
+Role-playing (RPG),5817
+Strategy,5817
+Adventure,5819
+Indie,5819
+Point-and-click,5819
+Puzzle,5819
+Indie,5824
+Puzzle,5824
+Quiz/Trivia,5824
+Role-playing (RPG),5824
+Strategy,5827
+Role-playing (RPG),5832
+Real Time Strategy (RTS),5833
+Simulator,5833
+Strategy,5833
+Arcade,5840
+Platform,5840
+Arcade,5843
+Arcade,5848
+Adventure,5854
+Indie,5854
+Puzzle,5854
+Simulator,5854
+Strategy,5854
+Simulator,5857
+Strategy,5857
+Unknow,5864
+Indie,5866
+Strategy,5866
+Adventure,5867
+Platform,5867
+Role-playing (RPG),5869
+Fighting,5870
+Point-and-click,5871
+Shooter,5879
+Indie,5884
+Turn-based strategy (TBS),5884
+Adventure,5885
+Arcade,5890
+Role-playing (RPG),5891
+Turn-based strategy (TBS),5891
+Adventure,5892
+Arcade,5896
+Fighting,5901
+Role-playing (RPG),5901
+Arcade,5904
+Indie,5904
+Platform,5904
+Adventure,5905
+Role-playing (RPG),5905
+Arcade,5911
+Puzzle,5916
+Strategy,5916
+Tactical,5916
+Adventure,5919
+Role-playing (RPG),5919
+Strategy,5919
+Adventure,5923
+Indie,5923
+Platform,5923
+Shooter,5923
+Adventure,5926
+Indie,5926
+Role-playing (RPG),5926
+Strategy,5926
+Strategy,5927
+Arcade,5931
+Puzzle,5931
+Arcade,5939
+Arcade,5943
+Arcade,5951
+Indie,5951
+Platform,5951
+Adventure,5952
+Arcade,5952
+Indie,5952
+Sport,5952
+Adventure,5954
+Indie,5954
+Role-playing (RPG),5954
+Simulator,5954
+Strategy,5954
+Adventure,5959
+Indie,5959
+Point-and-click,5959
+Puzzle,5959
+Indie,5966
+Strategy,5966
+Adventure,5968
+Role-playing (RPG),5968
+Indie,5969
+Puzzle,5969
+Adventure,5977
+Role-playing (RPG),5977
+Fighting,5978
+Adventure,5980
+Arcade,5980
+Indie,5980
+Platform,5980
+Point-and-click,5980
+Simulator,5981
+Adventure,5983
+Indie,5983
+Role-playing (RPG),5983
+Strategy,5983
+Simulator,5994
+Arcade,5999
+Platform,5999
+Indie,6005
+Shooter,6005
+Strategy,6005
+Unknow,6009
+Role-playing (RPG),6013
+Strategy,6013
+Adventure,6016
+Role-playing (RPG),6016
+Arcade,6021
+Shooter,6021
+Adventure,6025
+Indie,6025
