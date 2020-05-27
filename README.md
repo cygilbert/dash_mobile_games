@@ -54,7 +54,7 @@ Live demo [there](https://dash-mobile-games.herokuapp.com/).
 
 ## Date source
 
-- [IGDB](https://www.igdb.com/) for the database game:
+- [IGDB](https://www.igdb.com/) for the games database:
     - games list on iOS [here](https://www.igdb.com/platforms/ios/games)
     - game list on Android [here](https://www.igdb.com/platforms/android/games)
 - We only kept games still available on stores
