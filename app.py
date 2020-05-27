@@ -29,7 +29,7 @@ df_game.loc[:, 'Release year'] = df_game['Release date'].map(lambda x: x.year)
 end_year = max(df_game['Release year']) + 2
 
 df_genre_index = pd.read_csv(
-    DATA_PATH.joinpath("games_genre2.csv"), low_memory=False
+    DATA_PATH.joinpath("games_genre.csv"), low_memory=False
 )
 genres_dat = pickle.load(open(DATA_PATH.joinpath('genres.dat'), 'rb'))
 genres_options = [{'label': genre, 'value': genre} for genre in genres_dat]
