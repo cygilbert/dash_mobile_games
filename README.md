@@ -1,4 +1,4 @@
-# Dash Natural Gas Well Production
+# Dashboard Mobile Market
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ More information [there](https://pypi.org/project/selenium/)
 
 ## About the app
 
-This Dash app displays an overview about market mobile games (android and iOS). There are filters at the top of the app to update the graphs below. You can also filter date with the histograme. By selecting or hovering over data in scatter plot will update the data table.
+This little Dash app displays an overview about market mobile games (android and iOS). There are filters at the top of the app to update the graphs below. You can also filter date with the histograme. By selecting or hovering over data in scatter plot will update the data table.
 
 Live demo [there](https://dash-mobile-games.herokuapp.com/).
 
@@ -65,7 +65,7 @@ Live demo [there](https://dash-mobile-games.herokuapp.com/).
 - Implement filter on:
     - PEGI
     - Price
-- Companies selector is not very precise because we did not find data about connection between big companies and affiliated studios
+- Companies selector is not very precise because we did not find data about connection between big companies and their affiliated studios
 - Strange lack of games for recent years
 
 ## Built With
