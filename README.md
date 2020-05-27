@@ -67,6 +67,7 @@ Live demo [there](https://dash-mobile-games.herokuapp.com/).
     - Price
 - Companies selector is not very precise because we did not find data about connection between big companies and their affiliated studios
 - Strange lack of games for recent years
+- Factorize get_data scripts code
 
 ## Built With
 
